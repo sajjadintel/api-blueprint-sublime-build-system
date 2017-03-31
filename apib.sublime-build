@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "aglio --theme-variables flatly -i $file -o $file_path/$file_base_name.html"
+}
